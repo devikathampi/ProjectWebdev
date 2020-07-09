@@ -1,2 +1,2 @@
 # ProjectWebdev
-Website using bootstrap with sliders and flip cards
+Website prototype built using HTML,CSS and Bootstrap 4.
